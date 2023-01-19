@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Related Projects**
 
-- 📫 How to reach me **mujeebde03@gmail.com**
+- 📫 How to reach me **mujeebdev03@gmail.com**
 
 - ⚡ Fun fact **Funny**
 
