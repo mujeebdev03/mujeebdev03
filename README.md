@@ -18,7 +18,7 @@
 - 📫 How to reach me **mujeebdev03@gmail.com**
 
 - ⚡ Fun fact **Funny**
-- ⚡ Fun fact **Respected Veiwers you can get help from my code freely**
+- ⚡ NOTE **Respected Veiwers you can get help from my code freely**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
